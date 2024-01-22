@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="268cc5d2-50d4-49e4-9aa6-4fdf575b0243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/db/DbDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/db/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/db/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/db/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/model/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task2/All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task2/NumberNotesToEachCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task2/NumberOfBlacknotesFromManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task2/ShowingCountries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/MaxSummaryBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/MaxSummaryCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/MinSummaryBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/MinSummaryCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/hardNotebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task3/softNotebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task4/CountryFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task4/PageTypeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task5/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task5/Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/klozevitz/classwork/servlets/task5/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/Country.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/MaxSumNoteBrand.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/MaxSumNoteCountry.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/MinSumNoteBrand.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/MinSumNoteCountry.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/NotesOfBrand.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/NotesOfCountries.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/all.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/countryFilter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/hardNotebook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/pageTypeFilter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/remove.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/softNotebook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/task2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/task3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/task4.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/task5.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/templates/update.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bJpJhYoJVS18Fum2HHMx7VfDTU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ServletNoteskHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ServletNoteskHomework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="268cc5d2-50d4-49e4-9aa6-4fdf575b0243" name="Changes" comment="" />
+      <created>1705942971916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705942971916</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
